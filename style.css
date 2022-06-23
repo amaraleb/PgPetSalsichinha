@@ -74,6 +74,7 @@ footer{
     position:absolute;
     right:16px;
     bottom: 30%;
+    text-decoration: none;
 }
 
 .textofooter{
@@ -81,13 +82,13 @@ footer{
     right: 185px;
 }
 
-a.link{
+a:link{
     color: cadetblue;
 }
-a.visited{
+a:visited{
     color: cadetblue;
 }
-a.hover{
+a:hover{
     color: cadetblue;
 }
 
